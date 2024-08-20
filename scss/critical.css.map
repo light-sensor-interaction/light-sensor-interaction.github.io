@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "critical.css",
-	"sourceRoot": "/Users/ngdnhtien/Research/Codespace/photon",
+	"sourceRoot": "/Users/ngdnhtien/Codespace/photon",
 	"sources": [
 		"themes/bridget/assets/scss/critical.scss",
 		"themes/bridget/assets/scss/_core/_reset.scss",
